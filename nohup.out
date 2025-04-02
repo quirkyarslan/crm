@@ -1,0 +1,21 @@
+[90m[main 2025-03-26T14:04:26.772Z][0m updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/0.47.8/d9a21199d02e71b0ee6ca74855dbb49160bff2cdfc9152b23a6e279fbbc0728a/stable
+[90m[main 2025-03-26T14:04:26.772Z][0m update#setState idle
+[91m[main 2025-03-26T14:04:29.304Z][0m vscode-file: Refused to load resource /tmp/.mount_Cursor7afyQu/usr/share/cursor/resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/tmp/.mount_Cursor7afyQu/usr/share/cursor/resources/app/extensions/theme-seti/icons/seti.woff)
+[90m[main 2025-03-26T14:04:56.774Z][0m update#setState checking for updates
+[90m[main 2025-03-26T14:04:57.149Z][0m update#setState ready
+[93m[main 2025-03-26T14:09:26.733Z][0m No ptyHost heartbeat after 6 seconds
+[93m[main 2025-03-26T14:10:16.226Z][0m No ptyHost heartbeat after 6 seconds
+[93m[main 2025-03-26T14:11:28.914Z][0m No ptyHost heartbeat after 6 seconds
+[93m[main 2025-03-26T14:11:52.709Z][0m No ptyHost heartbeat after 6 seconds
+[93m[main 2025-03-26T14:12:12.354Z][0m No ptyHost heartbeat after 6 seconds
+[93m[main 2025-03-26T14:12:33.262Z][0m No ptyHost heartbeat after 6 seconds
+[93m[main 2025-03-26T14:12:46.407Z][0m No ptyHost heartbeat after 6 seconds
+[93m[main 2025-03-26T14:16:06.673Z][0m No ptyHost heartbeat after 6 seconds
+[93m[main 2025-03-26T14:16:13.291Z][0m No ptyHost heartbeat after 6 seconds
+[93m[main 2025-03-26T14:16:51.717Z][0m No ptyHost heartbeat after 6 seconds
+[93m[main 2025-03-26T14:18:27.062Z][0m No ptyHost heartbeat after 6 seconds
+[93m[main 2025-03-26T14:21:36.485Z][0m No ptyHost heartbeat after 6 seconds
+[93m[main 2025-03-26T14:22:07.994Z][0m No ptyHost heartbeat after 6 seconds
+[93m[main 2025-03-26T14:22:42.406Z][0m No ptyHost heartbeat after 6 seconds
+[93m[main 2025-03-26T14:34:52.174Z][0m No ptyHost heartbeat after 6 seconds
+[93m[main 2025-03-26T14:35:53.764Z][0m No ptyHost heartbeat after 6 seconds
